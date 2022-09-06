@@ -1,4 +1,5 @@
 Config = {}
+Config.EnableDebug = false
 
 Config.CardshopLocation =  {
 	['Cardshop'] = {
