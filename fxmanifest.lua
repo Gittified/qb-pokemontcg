@@ -29,5 +29,7 @@ dependencies {
     'menuv'
 }
 
+shared_script '@es_extended/imports.lua'
+
 data_file 'DLC_ITYP_REQUEST' 'stream/booster_props.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'stream/prop_deckbox_01.ytyp'
