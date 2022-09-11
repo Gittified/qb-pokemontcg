@@ -1,18 +1,14 @@
 fx_version "cerulean"
 game "gta5"
 
-shared_script '@es_extended/imports.lua'
-
-client_scripts {
-    '@menuv/menuv.lua',
-    'config.lua',
-    'client.lua'
+shared_scripts {
+    '@es_extended/imports.lua',
+    'config.lua'
 }
 
-server_scripts {
- 'config.lua',
- 'server.lua',
-}
+client_script 'client/main.lua'
+
+server_script 'server/main.lua'
 
 ui_page "html/index.html"
 
