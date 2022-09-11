@@ -1,8 +1,7 @@
 ## Dependencies  ##
-### QBCore - https://github.com/qbcore-framework/qb-core ###
-### qb-inventory - https://github.com/qbcore-framework/qb-inventory ### Any other inventory should work with this update now
-### Interactsound - https://github.com/plunkettscott/interact-sound ###
-### menuv - https://github.com/qbcore-framework/menuv ###
+### ESX Legacy - [Version 1.6+](https://github.com/esx-framework/esx-legacy) ###
+### ox_inventory - [Latest](https://github.com/overextended/ox_inventory) ### Any other inventory should work with this update now
+### Interactsound - [Latest](https://github.com/plunkettscott/interact-sound) ###
 
 ## Must have below added to qb-inventory for the box to have its own stash (This stash holds anything with 0 weight so make sure to have anything else that weighs 0 = 1 or something.) ##
 
